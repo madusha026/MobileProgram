@@ -1,0 +1,14 @@
+/Users/madushalakshan026/Desktop/Development/MobileProgram/bin/Debug/net8.0/MobileProgram
+/Users/madushalakshan026/Desktop/Development/MobileProgram/bin/Debug/net8.0/MobileProgram.deps.json
+/Users/madushalakshan026/Desktop/Development/MobileProgram/bin/Debug/net8.0/MobileProgram.runtimeconfig.json
+/Users/madushalakshan026/Desktop/Development/MobileProgram/bin/Debug/net8.0/MobileProgram.dll
+/Users/madushalakshan026/Desktop/Development/MobileProgram/bin/Debug/net8.0/MobileProgram.pdb
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.AssemblyInfoInputs.cache
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.AssemblyInfo.cs
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.csproj.CoreCompileInputs.cache
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.dll
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/refint/MobileProgram.dll
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.pdb
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/MobileProgram.genruntimeconfig.cache
+/Users/madushalakshan026/Desktop/Development/MobileProgram/obj/Debug/net8.0/ref/MobileProgram.dll
